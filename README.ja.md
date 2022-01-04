@@ -27,3 +27,5 @@ COCOA is licensed under the Mozilla Public License Version 2.0. See [LICENSE](LI
 ## サードパーティーソフトウェアについて
 
 This file incorporates components from the projects listed [document](COPYRIGHT_THIRD_PARTY_SOFTWARE_NOTICES.md).
+
+新しい修正
